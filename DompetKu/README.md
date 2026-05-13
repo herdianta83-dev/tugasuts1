@@ -11,4 +11,3 @@ Aplikasi **DompetKu** adalah aplikasi pencatat keuangan sederhana menggunakan Re
 Berikut adalah screenshot aplikasi DompetKu saat dijalankan:
 
 ![Screenshot Aplikasi](screenshot.jpg)
-
